@@ -1,0 +1,13 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+.container ,.container-fluid{
+    border: 10px solid black;
+}
+.row{
+    border: 5px solid palevioletred;
+}
+.col{
+    border: 2px solid yellow;
+}

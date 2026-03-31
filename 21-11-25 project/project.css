@@ -1,0 +1,354 @@
+body{
+    width: 100%;
+}
+
+.container-fluid{
+    height: 80px;
+   
+}
+.col-6{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 100px;
+    padding-top: 5px;
+    border: none;
+}
+.b1{
+    margin-left: 250px;
+   
+}
+.btn-1{
+    background-color: white;
+    color: black;
+}
+.btn-1:hover{
+    background-color: gainsboro;
+    color: black;
+}
+.btn-2:hover{
+   background-color: white;
+    color: black;
+}
+.btn-3:hover{
+   background-color: white;
+    color: black;
+}
+.bg-light{
+    background-color: rgba(248,249,250);
+    width: 100%;
+    height: 600px;
+}
+.col-6 h1{
+    font-size: 50px;
+    color: black;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+.col-6 p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    color: black;
+    font-size: 25px;
+    margin-left: 30px;
+}
+.col-6 button{
+    margin-left: 30px;
+}
+.col-6 .btn-4{
+    margin-left: 1px;
+}
+.col-6 img{
+    width: 650px;
+    border-radius: 10px;
+    margin-top: 80px;
+   margin-left: -100px;
+}
+
+.col{
+    font-size: 40px;
+    text-align: center;
+}
+.container-fluid.main1{
+    margin-top: 100px;
+}
+.box1{
+    width: 400px;
+    height: 520px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.box1 h2{
+    margin-top: 18px;
+}
+.box1 img{
+    border-radius: 10px;
+    margin-left: 2px;
+    margin-top: 30px;
+}
+.box1 p{
+    font-size: 20px;
+}
+
+.box2{
+    width: 400px;
+    height: 560px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 50px;
+    text-align: center;
+}
+.box2 h2{
+    margin-top: 20px;
+}
+.box2 img{
+    border-radius: 10px;
+    margin-left: 2px;
+    margin-top: 30px;
+}
+.box2 p{
+    font-size: 20px;
+}
+.box3{
+    width: 400px;
+    height: 520px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 50px;
+    text-align: center;
+}
+.box3 h2{
+    margin-top: 20px;
+}
+.box3 img{
+    border-radius: 10px;
+    margin-left: 2px;
+    margin-top: 30px;
+}
+.box3 p{
+    font-size: 20px;
+}
+.container-fluid.main2{
+    margin-top: 700px;
+}
+.img1 img{
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.img2 img{
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.img3 img{
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left:-10px ;
+}
+.container-fluid.main3{
+    margin-top: 500px;
+}
+.contact1 label{
+    font-size: 20px;
+    margin-left: -650px;
+   
+}
+.contact1 input{
+    width: 700px;
+    height: 50px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}
+.contact2 label{
+    font-size: 20px;
+    margin-left: -650px;
+}
+.contact2 input{
+    width: 700px;
+    height: 50px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}
+.contact3 label{
+    font-size: 20px;
+    margin-left: -620px;
+}
+.contact3 textarea{
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}
+.contact4 button{
+    width: 700px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.container-fluid.main4{
+    margin-top: 600px;
+    height: 100px;
+}
+.foot1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    padding-top: 35px;
+}
+.b2{
+    margin-left: 200px;
+    margin-top: 12px;
+}
+
+.btn-5:hover{
+   background-color: white;
+    color: black;
+   
+}
+.btn-6:hover{
+   background-color: white;
+    color: black;
+}
+.btn-7{
+    background-color: white;
+    color: black;
+    
+}
+.btn-7:hover{
+    background-color: gainsboro;
+    color: black;
+}
+
+@media (max-width:576px){
+    .container-fluid{
+        width: 100%;
+        height: 70px;   
+    }
+    .col-6{
+        font-size: 17px;
+        margin-left: -70px;
+        margin-top: 15px;
+    }
+    .b1{
+        margin-left: -20px;
+        margin-top: -10px;
+        height: 50px;
+    }
+    .btn-1,.btn-2,.btn-3{
+        font-size: 15px;
+       
+    }
+    .bg-light{
+        width: 100%;
+        height: 700px;
+    }
+    .row1{
+        flex-direction: column;
+    }
+    .col-6 h1{
+        width: 200%;
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: -20px;
+
+    }
+    .col-6 p{
+        width: 300%;
+        font-size: 17px;
+        margin-left: -20px;
+    }
+    .button{
+        display: flex;
+        width: 400px;
+        height: 50px;
+        margin-left: -45px;
+       
+    }
+    .col-6 img{
+        width: 450px;
+        height: 300px;
+        margin-left: 10px;
+    }
+    .main1{
+        width: 100%;
+        height: 200vh;
+    }
+    .box1,.box2,.box3{
+        margin-left: 65px;
+    }
+    .container-fluid.main2 {
+        width: 100%;
+        height: 100vh;
+    }
+    .img1 img{
+        width: 450px;
+        margin-top: 20px;
+        margin-left: 25px;
+    }
+    .img2 img{
+        width: 450px;
+        margin-top: 400px;
+        margin-left: -170px;
+    }
+    .img3 img{
+        width: 450px;
+        margin-top: 780px;
+        margin-left: -360px;
+    }
+    .container-fluid.main3{
+        width: 100%;
+        height: 20vh;
+        margin-top: 600px;
+    }
+    .contact1 label{
+        margin-left: -450px; 
+    }
+    .contact1 input{
+        width: 450px;
+        margin-left: -45px;
+    }
+    .contact2 label{
+        margin-left: -450px; 
+    }
+    .contact2 input{
+        width: 450px;
+        margin-left: -45px;
+    }
+    .contact3 label{
+        margin-left: -420px; 
+    }
+    .contact3 textarea{
+        width: 450px;
+        margin-left: -45px;
+
+    }
+    .contact4 button{
+        width: 450px;
+        margin-left: -45px;
+    }
+    .main4{
+        width: 100%;
+        margin-top: 300px;
+    }
+    .foot1{
+        margin-top: 8px;
+    }
+    .b2{
+        margin-left: -20px;
+        margin-top: 2px;
+        height: 60px;
+    }
+    .btn-5,.btn-6,.btn-7{
+        font-size: 15px;
+        padding: 10px;
+       
+    }
+}
+
+

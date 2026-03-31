@@ -1,0 +1,9 @@
+.container{
+    border: 10px solid palevioletred;
+}
+.row{
+    border: 5px solid paleturquoise;
+}
+.col-2,.col-1,.col-3{
+    border: 3px solid peachpuff;
+}

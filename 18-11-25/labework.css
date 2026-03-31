@@ -1,0 +1,51 @@
+body{
+    width: 90%;
+    height: 170vh;
+    border: 8px solid black;
+  
+}
+h1{
+    font-size: 40px;
+    text-align: center;   
+}
+h4{
+    font-size: 30px;
+    margin-left: 10px;
+}
+img {
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left: 10px;
+}
+h2{
+    font-size: 40px;
+    color: purple;
+    font-family:cursive;
+    margin-left: 10px;
+}
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:green;
+    font-size: 30px;
+    margin-left: 10px;
+}
+h3{
+    font-size: 30px;
+    margin-top: 70px;
+}
+a{
+    font-size: 20px;
+    margin-left: 40px;
+}
+#h2{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
+    margin-top: 500px;
+}
+.pero{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: blue;
+}

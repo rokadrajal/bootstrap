@@ -1,0 +1,9 @@
+.container{
+    border: 10px solid black;
+}
+.row{
+    border: 5px solid yellow;
+}
+.col,.col-1,.col-3{
+    border: 2px solid rebeccapurple;
+}
